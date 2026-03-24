@@ -1,2 +1,1 @@
-# trunfo
-um trunfo que vai atualizar semanalmente e novas cartas
+# JogoCartasAtividade3_aluno
